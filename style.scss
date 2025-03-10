@@ -230,13 +230,13 @@ figure {
     }
     &::before {
       @include btnDetail;
-      top: 50%;
+      bottom: 50%;
       transform: rotate(-180deg);
       transform-origin: left center;
     }
     &::after {
       @include btnDetail;
-      bottom: 50%;
+      top: 50%;
       transform: rotate(180deg);
       transform-origin: left center;
     }

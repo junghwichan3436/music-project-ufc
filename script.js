@@ -1,4 +1,4 @@
-import { API_UNSPLASH_KEY } from "./env.js";
+
 
 // const getImg = `https://api.unsplash.com/photos/random/?client_id=${API_UNSPLASH_KEY}`;
 // const figure = document.querySelector("figure");

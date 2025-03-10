@@ -228,7 +228,7 @@ figure .btnPrev::before {
   position: absolute;
   left: 0;
   transition: all 0.5s;
-  top: 50%;
+  bottom: 50%;
   transform: rotate(-180deg);
   transform-origin: left center;
 }
@@ -243,7 +243,7 @@ figure .btnPrev::after {
   position: absolute;
   left: 0;
   transition: all 0.5s;
-  bottom: 50%;
+  top: 50%;
   transform: rotate(180deg);
   transform-origin: left center;
 }
